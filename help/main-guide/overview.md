@@ -3,8 +3,10 @@ title: Panoramica del test
 description: Scopri come funzionano i moduli LLM (token, incorporamenti e RAG) e perché le Ricerche IA stanno spostando l’ottimizzazione SEO (Search Engine Optimization) in GEO (Area geografica). Una guida pratica per gli esperti di marketing per ottenere citazioni di IA.
 autotag-review: '2026-08-25T17:55:59.130Z'
 TQID: 'https://experienceleague.adobe.com/j891oRQoiZfSO5whAmV25aYxEnDDjOD4JyWSoistBkw'
-product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2:
+  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
 source-git-commit: f7262325ce9f76ff99dbcb6e3e0519d2f2aaeaa5
 workflow-type: tm+mt
 source-wordcount: 31
