@@ -1,14 +1,14 @@
 ---
-user-guide-title: Guida al nuovo modello
-user-guide-description: Aggiungi qui la descrizione della nuova guida.
-source-git-commit: b4c7e81269675ba5072477986b4a11e1e31c33bb
+user-guide-title: Visibilità dei brand tutorial
+user-guide-description: Visibilità dei brand tutorial
+source-git-commit: f7262325ce9f76ff99dbcb6e3e0519d2f2aaeaa5
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 7%
+source-wordcount: '10'
+ht-degree: 10%
 
 ---
 
 
-# Nuova guida modello {#tutorials}
+# Visibilità dei brand tutorial {#tutorials}
 
 + [Panoramica](overview.md)
