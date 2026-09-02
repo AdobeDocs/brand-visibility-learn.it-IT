@@ -1,7 +1,7 @@
 ---
 user-guide-title: Visibilità dei brand tutorial
 user-guide-description: Visibilità dei brand tutorial
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -9,7 +9,7 @@ ht-degree: 0%
 ---
 
 
-# Visibilità dei brand tutorial {#tutorials}
+# Visibilità dei brand università {#tutorials}
 
 + [Panoramica](overview.md)
 + [Rapporto prestazioni IA strumenti Web master Bing](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
