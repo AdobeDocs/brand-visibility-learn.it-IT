@@ -34,4 +34,4 @@ Questo video illustra:
 * Cosa è cambiato di recente, compreso Googlebot che legge il file
 * Perché crearne una è un&#39;assicurazione a basso sforzo, non una garanzia di citazione
 
->[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502900/?captions=ita&learn=on){transcript=true}

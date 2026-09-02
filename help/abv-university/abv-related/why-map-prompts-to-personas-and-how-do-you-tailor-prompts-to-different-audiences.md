@@ -34,4 +34,4 @@ Questo video illustra:
 * Come raggruppare gli argomenti per persona, ad esempio un decision maker o uno studente
 * Perché la media della visibilità su un intero pubblico nasconde la tua reale posizione
 
->[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502801/?captions=ita&learn=on){transcript=true}

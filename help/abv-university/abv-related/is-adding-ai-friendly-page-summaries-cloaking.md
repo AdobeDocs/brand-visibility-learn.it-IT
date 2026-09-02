@@ -34,4 +34,4 @@ Questo video illustra:
 * In che modo le ottimizzazioni Edge attualmente gestiscono solo bot di intelligenza artificiale, non crawler di ricerca
 * Come è possibile eseguire il rollback di qualsiasi ottimizzazione in secondi dalla rete CDN
 
->[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502873/?captions=ita&learn=on){transcript=true}

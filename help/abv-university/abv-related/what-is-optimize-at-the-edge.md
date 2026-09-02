@@ -34,4 +34,4 @@ Questo video illustra:
 * Come HTML pre-renderizzato viene distribuito solo ai bot di intelligenza artificiale, non agli utenti
 * Il modo in cui i riepiloghi e i sommari inseriti aiutano i bot a comprendere una pagina
 
->[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502792/?captions=ita&learn=on){transcript=true}

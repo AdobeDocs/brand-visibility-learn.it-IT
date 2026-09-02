@@ -34,4 +34,4 @@ Questo video illustra:
 * Perché rendere il contenuto più semplice da leggere non è una manipolazione
 * Perché l&#39;esecuzione all&#39;interno della rete CDN rende questo processo naturale e a basso rischio
 
->[!VIDEO](https://video.tv.adobe.com/v/3502727/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502810/?captions=ita&learn=on){transcript=true}

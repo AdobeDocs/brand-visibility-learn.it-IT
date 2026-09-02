@@ -34,4 +34,4 @@ Questo video illustra:
 * Perché lo stesso prompt può restituire un tono diverso tra utenti e giorni
 * Come Adobe Brand Visibility tiene traccia del sentiment nel tempo e per prompt
 
->[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502882/?captions=ita&learn=on){transcript=true}

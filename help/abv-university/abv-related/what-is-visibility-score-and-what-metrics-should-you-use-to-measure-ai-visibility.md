@@ -34,4 +34,4 @@ Questo video illustra:
 * Perché la partitura è una stella del nord che è difficile da agire da sola
 * Quali metriche associarle, dalle menzioni e citazioni alle metriche agentiche e di traffico da referral
 
->[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502910/?captions=ita&learn=on){transcript=true}

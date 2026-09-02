@@ -34,4 +34,4 @@ Questo video illustra:
 * Come informazioni di terze parti errate possono creare un’esperienza cliente inadeguata
 * Perché il monitoraggio settimanale è una cadenza pratica, con disponibilità quotidiana
 
->[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502819/?captions=ita&learn=on){transcript=true}
