@@ -1,7 +1,7 @@
 ---
 user-guide-title: Visibilità dei brand tutorial
 user-guide-description: Visibilità dei brand tutorial
-source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
+source-git-commit: 54dec47a0083c8958bc8c06471ac92ddbaa9394f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -12,10 +12,10 @@ ht-degree: 0%
 # Visibilità dei brand università {#tutorials}
 
 + [Panoramica](overview.md)
++ [Come funzionano i moduli LLM: guida per gli addetti al marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Rapporto prestazioni IA strumenti Web master Bing](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [È necessario ottimizzare l&#39;intero sito Web?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
 + [Scrittura di richieste per informazioni geografiche affidabili e ripetibili](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
-+ [Come funzionano i moduli LLM: guida per gli addetti al marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Come monitorare le differenze regionali nelle risposte ai brand di intelligenza artificiale](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
 + [Aumento dell’autorità del marchio per i domini a traffico agente ridotto](abv-university/abv-related/increasing-brand-authority-for-low-agentic-traffic-domains.md)
 + [L’Aggiunta Di Riepiloghi Di Pagina Facili Da Usare Per L’Intelligenza Artificiale Si Maschera?](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
