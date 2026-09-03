@@ -1,0 +1,37 @@
+---
+title: Nozioni di base tecniche per aiutare i moduli LLM a Scansionare il sito
+description: Scopri le nozioni di base tecniche che consentono a LLM di scansionare il tuo sito, dalle regole bot robots.txt e CDN al rendering lato client, in modo che il contenuto rimanga visibile e consultabile.
+feature: CDN
+role: Admin, Leader, User
+level: Beginner
+doc-type: Value Video
+duration: 408
+last-substantial-update: 2026-09-02T00:00:00Z
+jira: KT-22516
+source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 0%
+
+---
+
+# Quali nozioni di base tecniche aiutano i moduli LLM a Scansionare e interpretare correttamente il sito web?
+
+Le esperienze LLM si basano sulla stessa infrastruttura web utilizzata per la ricerca: scansiona, indicizzazione e rendering. Questo video illustra le nozioni di base tecniche che mantengono i contenuti visibili e consultabili.
+
+## A chi serve questo video?
+
+* Amministratori, sviluppatori e utenti responsabili della crawlability del sito
+* Risoluzione dei problemi dei team relativi all’impossibilità di visualizzare il contenuto tramite IA
+
+## Contenuto video
+
+Questo video illustra:
+
+* Perché la scansiona, la tokenizzazione e il rendering decidono se l’intelligenza artificiale può utilizzare la pagina
+* In che modo robots.txt e le regole bot CDN predefinite possono bloccare gli agenti di intelligenza artificiale
+* Come i bloccanti appaiono come 404 secondi e tassi di successo bassi nel traffico agente
+* Perché canoniche, paywall e pareti di accesso incoerenti limitano l’accesso ai dati IA
+* Come il rendering lato client nasconde i contenuti e come il recupero delle visibilità dei contenuti li corregge
+
+>[!VIDEO](https://video.tv.adobe.com/v/3502928/?captions=ita&learn=on){transcript=true}
