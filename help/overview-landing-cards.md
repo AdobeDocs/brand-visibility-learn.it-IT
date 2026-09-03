@@ -1,17 +1,19 @@
 ---
-title: 'Brand Visibility University: test delle schede di destinazione'
-description: Panoramica alternativa di Brand Visibility University creata con il componente landing-cards-container per un confronto A/B degli stili delle schede.
-source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
+title: 'Brand Visibility University: esercitazioni video GEO'
+description: Scopri come funzionano le Ricerche IA e i moduli LLM e come guadagnare visibilità dei brand e citazioni nelle risposte AI, con video di valore pratico da Brand Visibility University.
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 2%
+source-wordcount: 845
+ht-degree: 3%
 
 ---
 
 
-# Visibilità dei brand università (carte di destinazione test A/B)
+# Adobe Brand Visibility University
 
-Questa è una versione alternativa della panoramica creata con il componente `landing-cards-container`, da confrontare con le schede generate da HTML. Stessi video, raggruppati per argomento.
+Benvenuti alla Adobe Brand Visibility University, una libreria in crescita di brevi video di valore pratico che spiegano come funzionano le Ricerche IA e i modelli di linguaggio di grandi dimensioni e come guadagnare visibilità e citazioni per il tuo marchio nelle risposte AI. Sfoglia per argomento di seguito.
 
 ## Fondamenti: come funziona la Ricerca IA {#foundations}
 

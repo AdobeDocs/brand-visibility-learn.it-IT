@@ -1,9 +1,9 @@
 ---
 user-guide-title: Visibilità dei brand tutorial
 user-guide-description: Visibilità dei brand tutorial
-source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
+source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -11,8 +11,7 @@ ht-degree: 0%
 
 # Visibilità dei brand università {#tutorials}
 
-+ [Panoramica](overview.md)
-+ [Panoramica (test delle carte di destinazione)](overview-landing-cards.md)
++ [Panoramica](overview-landing-cards.md)
 + [Come funzionano i moduli LLM: guida per gli addetti al marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Rapporto prestazioni IA strumenti Web master Bing](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [È necessario ottimizzare l&#39;intero sito Web?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
