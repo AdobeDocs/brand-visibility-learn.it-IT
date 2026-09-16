@@ -33,4 +33,4 @@ Questo video illustra:
 * Perché tenere un registro con versione dei prompt e delle loro intenzioni migliora le attività nel tempo
 * Come caricare le richieste in Configurazione cliente e perché modifiche frequenti possono influenzare i punteggi storici
 
->[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502748/?captions=ita&learn=on){transcript=true}
