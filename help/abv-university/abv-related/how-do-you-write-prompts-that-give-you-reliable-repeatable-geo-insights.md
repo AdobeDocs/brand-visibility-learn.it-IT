@@ -6,15 +6,14 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 161
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02
 jira: KT-22505
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+nudge: edit1
+source-git-commit: 5642abb49edec6e5d5ff59199a5c669806689048
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
-
 ---
-
 # Come si scrivono i prompt per ottenere informazioni geografiche affidabili e ripetibili
 
 Considera i prompt tracciati come test case. Questo video mostra come prompt realistici, specifici e ripetibili forniscono informazioni stabili e affidabili sulla visibilità dell’intelligenza artificiale in Adobe Brand Visibility.
@@ -34,4 +33,4 @@ Questo video illustra:
 * Perché tenere un registro con versione dei prompt e delle loro intenzioni migliora le attività nel tempo
 * Come caricare le richieste in Configurazione cliente e perché modifiche frequenti possono influenzare i punteggi storici
 
->[!VIDEO](https://video.tv.adobe.com/v/3502748/?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
