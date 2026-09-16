@@ -6,15 +6,14 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 161
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02
 jira: KT-22505
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+nudge: edit2
+source-git-commit: e92826dfcba6e0269a5dd6557ac7690278829ba2
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
-
 ---
-
 # Come si scrivono i prompt per ottenere informazioni geografiche affidabili e ripetibili
 
 Considera i prompt tracciati come test case. Questo video mostra come prompt realistici, specifici e ripetibili forniscono informazioni stabili e affidabili sulla visibilità dell’intelligenza artificiale in Adobe Brand Visibility.
