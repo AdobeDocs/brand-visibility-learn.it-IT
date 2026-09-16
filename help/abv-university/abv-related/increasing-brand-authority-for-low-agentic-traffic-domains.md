@@ -46,4 +46,4 @@ Questo video illustra:
 * Perché ottenere contenuti precisi e coerenti prima di effettuare il push fuori sede
 * Come le opportunità off-site (citati sentiment, Wikipedia, Reddit, YouTube) e le leve classiche come backlink e recensioni costruire autorità
 
->[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502783/?captions=ita&learn=on){transcript=true}

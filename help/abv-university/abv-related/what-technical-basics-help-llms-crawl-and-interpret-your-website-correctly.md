@@ -51,4 +51,4 @@ Questo video illustra:
 * Perché canoniche, paywall e pareti di accesso incoerenti limitano l’accesso ai dati IA
 * Come il rendering lato client nasconde i contenuti e come il recupero delle visibilità dei contenuti li corregge
 
->[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502928/?captions=ita&learn=on){transcript=true}

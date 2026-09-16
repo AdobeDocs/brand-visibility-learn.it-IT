@@ -45,7 +45,7 @@ Questo video illustra:
 * Differenza tra i dati delle citazioni e il classico rapporto sulle prestazioni di ricerca composto da clic, impression e classificazione
 * Perché è importante per la tua strategia GEO e come si integra con Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502698/?captions=ita&learn=on){transcript=true}
 
 >[!NOTE]
 >Il rapporto sulle prestazioni di IA attualmente copre solo le citazioni in Bing Copilot e i riepiloghi di IA. Non include ancora altri assistenti IA come ChatGPT.

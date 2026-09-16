@@ -46,4 +46,4 @@ Questo video illustra:
 * Perché la copertura coerente può battere un&#39;unica posizione numero uno
 * Perché contenuti di attualità profondi e SEO (Search Engine Optimization) forti continuano a spingere le citazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502828/?captions=ita&learn=on){transcript=true}

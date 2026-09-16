@@ -51,4 +51,4 @@ Questo video illustra:
 * Dove esaminare quali suggerimenti hai applicato e quali sono ancora aperti
 * Come ripristinare qualsiasi ottimizzazione in qualsiasi momento
 
->[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502734/?captions=ita&learn=on){transcript=true}

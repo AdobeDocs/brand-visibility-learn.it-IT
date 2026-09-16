@@ -47,4 +47,4 @@ Questo video illustra:
 * Cosa significa che ChatGPT è di nuovo un canale di traffico, non solo un canale di marchio
 * Come la nuova feature di traffico da referral nell&#39;Ispettore URL fa emergere questo
 
->[!VIDEO](https://video.tv.adobe.com/v/3502764/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502918/?captions=ita&learn=on){transcript=true}

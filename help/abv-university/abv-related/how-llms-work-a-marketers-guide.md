@@ -48,4 +48,4 @@ Questo video illustra:
 * Come il recupero (RAG) basa le risposte nelle origini live e produce le citazioni
 * Perché la valuta della scoperta si sta spostando dal clic alla citazione, e le cinque leve che guadagnano citazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502891/?captions=ita&learn=on){transcript=true}

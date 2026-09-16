@@ -46,4 +46,4 @@ Questo video illustra:
 * Perché la scrittura della posizione nel prompt corrisponde al meglio al comportamento effettivo dell’utente
 * Che richiede di iniziare con e come l’approccio si applica tra i settori
 
->[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502758/?captions=ita&learn=on){transcript=true}

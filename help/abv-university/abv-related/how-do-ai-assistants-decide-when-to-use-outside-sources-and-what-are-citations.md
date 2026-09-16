@@ -45,4 +45,4 @@ Questo video illustra:
 * Perché alcune citazioni sono allucinate e possono portare a 404 s
 * Come distinguere una sorgente recuperata reale dal testo generato dal modello
 
->[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502837/?captions=ita&learn=on){transcript=true}

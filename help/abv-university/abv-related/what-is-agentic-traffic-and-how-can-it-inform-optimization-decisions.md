@@ -54,4 +54,4 @@ Questo video illustra:
 * Il conteggio delle parole con visibilità dei contenuti mostra quanto IA effettivamente vede
 * Perché gli agenti necessitano di una chiara struttura di pagina, in particolare per maschere e interazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502774/?captions=ita&learn=on){transcript=true}

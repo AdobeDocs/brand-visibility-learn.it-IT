@@ -49,4 +49,4 @@ Questo video illustra:
 * Come semplificare l’accesso e la comprensione dei contenuti per i crawler
 * Come Adobe Brand Visibility mostra le citazioni di terze parti da allineare
 
->[!VIDEO](https://video.tv.adobe.com/v/3502733/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502855/?captions=ita&learn=on){transcript=true}

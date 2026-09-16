@@ -50,4 +50,4 @@ Questo video illustra:
 * Perché i marchi che sono anche parole comuni sono difficili da rilevare
 * Perché la misurazione è un miglioramento continuo che continua a migliorare
 
->[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502867/?captions=ita&learn=on){transcript=true}
