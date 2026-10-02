@@ -51,7 +51,7 @@ Questo video illustra:
 * Dove trovare il rapporto &quot;prima e dopo&quot; in Opportunity Workspace
 * Perché i visitatori umani non vedono cambiamenti mentre AI vede la pagina ottimizzata
 
->[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504053/?captions=ita&learn=on){transcript=true}
 
 >[!NOTE]
 >Seleziona almeno 20 URL in modo che il motore abbia un campione sufficientemente grande da misurare l’impatto con precisione. La misurazione dell’impatto è oggi disponibile per il ripristino della visibilità dei contenuti e si sta espandendo fino a raggiungere tutte le opportunità di ottimizzazione Edge.
