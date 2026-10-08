@@ -32,4 +32,4 @@ Questo video illustra:
 * Come leggere la tua panoramica dell’intelligenza artificiale con brand e vedere quali fonti Google cita
 * Perché la risposta di IA sul tuo marchio vale la pena di essere vista così da vicino come le tue classifiche
 
->[!VIDEO](https://video.tv.adobe.com/v/3504213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504219/?captions=ita&learn=on){transcript=true}
