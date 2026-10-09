@@ -1,15 +1,17 @@
 ---
 user-guide-title: Visibilità dei brand tutorial
 user-guide-description: Visibilità dei brand tutorial
-source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
+source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '204'
 ht-degree: 0%
 ---
 
 # Visibilità dei brand università {#tutorials}
 
 + [Panoramica](overview.md)
++ Notizie e approfondimenti {#news-and-insights}
+  + [Google ora risponde ai nomi dei marchi con panoramiche basate sull’intelligenza artificiale](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + Fondamenti: come funziona la Ricerca IA {#foundations}
   + [Come funzionano i moduli LLM: guida per gli addetti al marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
   + [Scrittura di richieste per informazioni geografiche affidabili e ripetibili](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)

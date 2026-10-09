@@ -17,10 +17,10 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
+source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
 workflow-type: tm+mt
-source-wordcount: '863'
-ht-degree: 3%
+source-wordcount: '944'
+ht-degree: 2%
 ---
 
 # Adobe Brand Visibility University
@@ -29,6 +29,22 @@ Benvenuti alla Adobe Brand Visibility University, una libreria in crescita di br
 
 >[!NOTE]
 >Per la documentazione completa, consulta la [documentazione di Adobe Brand Visibility](https://experienceleague.adobe.com/it/docs/brand-visibility/using/home).
+
+## Notizie e approfondimenti {#news-and-insights}
+
+Gli ultimi cambiamenti nelle Ricerche IA e cosa significano per il tuo marchio.
+
+::::landing-cards-container
+:::card
+![Google ora risponde ai nomi dei marchi con panoramiche basate sull&#39;intelligenza artificiale](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
+
+Google ora risponde ai nomi dei marchi con panoramiche basate sull’intelligenza artificiale
+
+Come le panoramiche basate sull’intelligenza artificiale di Google ora rispondono alle ricerche basate sul nome del brand e cosa vedere nelle risposte alla console di ricerca e all’intelligenza artificiale.
+
+[Osserva](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
+:::
+::::
 
 ## Fondamenti: come funziona la Ricerca IA {#foundations}
 
@@ -157,6 +173,15 @@ Un audit di quasi 5.000 siti AEM sull’adozione di LLMs.txt e i motivi per cui 
 Scopri cosa misurare e come leggere i segnali che mostrano se l’intelligenza artificiale è in grado di vedere e citarti.
 
 ::::landing-cards-container
+:::card
+![Funzionamento del motore di misurazione dell&#39;impatto](/help/assets/overview/how-does-the-impact-measurement-engine-work.png)
+
+Funzionamento del motore di misurazione dell&#39;impatto
+
+Come il motore misura la visibilità dell’intelligenza artificiale prima e dopo un’ottimizzazione e segnala esattamente ciò che è cambiato.
+
+[Osserva](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
+:::
 :::card
 ![Punteggio di visibilità e metriche per visibilità IA](/help/assets/overview/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.png)
 
