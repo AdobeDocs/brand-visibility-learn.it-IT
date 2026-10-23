@@ -33,4 +33,4 @@ Questo video illustra:
 * Da dove iniziare, dalla ricerca di sola lettura alle azioni con punteggi più elevati
 * Dove Adobe Sites Optimizer e Adobe Brand Visibility entrano
 
->[!VIDEO](https://video.tv.adobe.com/v/3504833/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504848/?captions=ita&learn=on){transcript=true}

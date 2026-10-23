@@ -32,4 +32,4 @@ Questo video illustra:
 * Come aggiungere il pulsante con due righe di HTML o un collegamento di fallback semplice
 * Verificare l’idoneità e tenere traccia delle selezioni in Google Search Console
 
->[!VIDEO](https://video.tv.adobe.com/v/3504832/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504839/?captions=ita&learn=on){transcript=true}
