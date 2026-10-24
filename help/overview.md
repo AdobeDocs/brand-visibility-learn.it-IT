@@ -17,9 +17,9 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '1013'
 ht-degree: 2%
 ---
 
@@ -35,6 +35,24 @@ Benvenuti alla Adobe Brand Visibility University, una libreria in crescita di br
 Gli ultimi cambiamenti nelle Ricerche IA e cosa significano per il tuo marchio.
 
 ::::landing-cards-container
+:::card
+![Informazioni sulle origini preferite di Google](/help/assets/overview/what-are-google-preferred-sources.png)
+
+Informazioni sulle origini preferite di Google
+
+Funzionalità di Origini preferite di Google, motivo della rapida crescita e modalità di aggiunta in due righe di HTML.
+
+[Osserva](abv-university/abv-related/what-are-google-preferred-sources.md)
+:::
+:::card
+![WebMCP e utilizzo del sito da parte degli agenti di IA](/help/assets/overview/what-is-webmcp.png)
+
+WebMCP e utilizzo del sito da parte degli agenti di intelligenza artificiale
+
+Come WebMCP consente agli agenti di intelligenza artificiale di richiamare strumenti sulla pagina come un’API, come si differenzia da MCP e da dove iniziare.
+
+[Osserva](abv-university/abv-related/what-is-webmcp.md)
+:::
 :::card
 ![Google ora risponde ai nomi dei marchi con panoramiche basate sull&#39;intelligenza artificiale](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
 

@@ -1,9 +1,9 @@
 ---
 user-guide-title: Visibilità dei brand tutorial
 user-guide-description: Visibilità dei brand tutorial
-source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '216'
 ht-degree: 0%
 ---
 
@@ -11,6 +11,8 @@ ht-degree: 0%
 
 + [Panoramica](overview.md)
 + Notizie e approfondimenti {#news-and-insights}
+  + [Informazioni sulle origini preferite di Google](abv-university/abv-related/what-are-google-preferred-sources.md)
+  + [WebMCP e utilizzo del sito da parte degli agenti di intelligenza artificiale](abv-university/abv-related/what-is-webmcp.md)
   + [Google ora risponde ai nomi dei marchi con panoramiche basate sull’intelligenza artificiale](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + Fondamenti: come funziona la Ricerca IA {#foundations}
   + [Come funzionano i moduli LLM: guida per gli addetti al marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
