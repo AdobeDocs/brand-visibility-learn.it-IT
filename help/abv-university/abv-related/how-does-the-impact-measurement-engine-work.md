@@ -26,9 +26,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: 08becc62321c4060fc65556ea31128610ad34338
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 ---
 # Come funziona il motore di misurazione dell’impatto?
@@ -54,4 +54,4 @@ Questo video illustra:
 >[!VIDEO](https://video.tv.adobe.com/v/3504053/?captions=ita&learn=on){transcript=true}
 
 >[!NOTE]
->Seleziona almeno 20 URL in modo che il motore abbia un campione sufficientemente grande da misurare l’impatto con precisione. La misurazione dell’impatto è oggi disponibile per il ripristino della visibilità dei contenuti e si sta espandendo fino a raggiungere tutte le opportunità di ottimizzazione Edge.
+>Seleziona almeno 20 URL in modo che il motore abbia un campione sufficientemente grande da misurare l’impatto con precisione. La misurazione dell’impatto è disponibile oggi per Recover Visibilità dei contenuti, Add LLM-friendly Summary e Add Table of Contents e prevede di espandersi per ottimizzare le opportunità di Edge.
