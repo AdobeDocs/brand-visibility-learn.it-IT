@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
-# Quali nozioni di base tecniche aiutano i moduli LLM a Scansionare e interpretare correttamente il sito web?
+# Quali nozioni di base tecniche aiutano i moduli LLM a scansionare e interpretare correttamente il sito web?
 
 Le esperienze LLM si basano sulla stessa infrastruttura web utilizzata per la ricerca: scansiona, indicizzazione e rendering. Questo video illustra le nozioni di base tecniche che mantengono i contenuti visibili e consultabili.
 

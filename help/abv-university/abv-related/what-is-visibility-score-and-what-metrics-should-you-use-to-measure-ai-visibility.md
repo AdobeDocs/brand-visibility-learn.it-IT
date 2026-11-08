@@ -35,12 +35,12 @@ topic_v2:
     internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
-# Cos’è il Punteggio di visibilità e quali metriche dovresti utilizzare per misurare la visibilità AI?
+# Cos’è il punteggio di visibilità e quali metriche devi utilizzare per misurare la visibilità AI?
 
 Il punteggio di visibilità è una metrica aggregata e ogni strumento lo calcola in modo diverso. Questo video spiega cosa Adobe Brand Visibility effettua e quali metriche associarle.
 

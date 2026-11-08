@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 ---
-# L’Aggiunta Di Riepiloghi Di Pagina Facili Da Usare Per L’Intelligenza Artificiale Si Maschera?
+# L’aggiunta di riepiloghi di pagina descrittivi per l’intelligenza artificiale si sta mascherando?
 
 Risposta breve: no. Questo video spiega perché i riepiloghi di Optimize at the Edge per gli agenti di intelligenza artificiale non si occultano, utilizzando la definizione propria di Google e come mantenere il pieno controllo.
 

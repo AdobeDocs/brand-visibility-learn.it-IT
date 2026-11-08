@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 ---
-# Qual è la differenza tra essere citati e essere citati in una risposta AI?
+# Qual è la differenza tra essere menzionati e essere citati in una risposta AI?
 
 Una menzione denomina il tuo marchio nel testo; una citazione collega la tua pagina come sorgente. Questo video spiega la differenza e perché le citazioni sono il segnale di visibilità più forte.
 
