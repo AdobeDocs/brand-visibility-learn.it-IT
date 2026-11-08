@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 ---
-# In che modo gli assistenti di IA decidono quando utilizzare fonti esterne e cosa sono le citazioni?
+# In che modo gli assistenti AI decidono quando utilizzare fonti esterne e cosa sono le citazioni?
 
 Gli assistenti AI rispondono dai dati di formazione o recuperano prima le origini live. Questo video mostra come decidono, cosa sia in realtà una citazione, e perché alcune non sono reali.
 
@@ -48,4 +48,4 @@ Questo video illustra:
 * Perché alcune citazioni sono allucinate e possono portare a 404 s
 * Come distinguere una sorgente recuperata reale dal testo generato dal modello
 
->[!VIDEO](https://video.tv.adobe.com/v/3502837/?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}

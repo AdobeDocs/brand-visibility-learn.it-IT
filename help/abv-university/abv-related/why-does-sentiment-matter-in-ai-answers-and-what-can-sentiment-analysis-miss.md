@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 ---
-# Perché il Sentiment conta nelle risposte AI e cosa può mancare all’analisi del Sentiment?
+# Perché il sentiment è importante nelle risposte AI e cosa può mancare all’analisi del sentiment?
 
 Il sentiment è la direzione emotiva del linguaggio, e determina il modo in cui le risposte AI ritraggono il tuo marchio. Questo video spiega perché è importante e dove l’analisi del sentiment può andare storto.
 
@@ -54,4 +54,4 @@ Questo video illustra:
 * Perché lo stesso prompt può restituire un tono diverso tra utenti e giorni
 * Come Adobe Brand Visibility tiene traccia del sentiment nel tempo e per prompt
 
->[!VIDEO](https://video.tv.adobe.com/v/3502882/?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}

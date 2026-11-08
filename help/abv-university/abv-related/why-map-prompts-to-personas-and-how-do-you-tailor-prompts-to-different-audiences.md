@@ -25,12 +25,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# Perché mappare i prompt agli utenti tipo e come adattare i prompt ai diversi tipi di pubblico?
+# Perché mappare i prompt agli utenti tipo e come si adattano i prompt ai diversi tipi di pubblico?
 
 La mappatura dei prompt basata su persone raggruppa i prompt in base ai tipi di utenti reali. Questo video mostra perché i prompt di personalizzazione per il pubblico rivelano la tua vera posizione nelle risposte AI.
 
@@ -49,4 +49,4 @@ Questo video illustra:
 * Come raggruppare gli argomenti per persona, ad esempio un decision maker o uno studente
 * Perché la media della visibilità su un intero pubblico nasconde la tua reale posizione
 
->[!VIDEO](https://video.tv.adobe.com/v/3502801/?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}

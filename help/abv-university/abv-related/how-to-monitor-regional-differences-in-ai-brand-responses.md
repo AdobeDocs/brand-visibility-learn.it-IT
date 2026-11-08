@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 ---
-# Come monitorare le differenze regionali nelle risposte ai brand di intelligenza artificiale
+# Come monitorare le differenze regionali nelle risposte del brand AI
 
 Gli assistenti AI rispondono in modo diverso a seconda di dove pensano che sia l’utente. Questo video mostra perché scrivere la posizione direttamente nelle richieste di monitoraggio fa in modo che i risultati rispecchino ciò che i clienti vedono realmente.
 
@@ -54,4 +54,4 @@ Questo video illustra:
 * Perché la scrittura della posizione nel prompt corrisponde al meglio al comportamento effettivo dell’utente
 * Che richiede di iniziare con e come l’approccio si applica tra i settori
 
->[!VIDEO](https://video.tv.adobe.com/v/3502758/?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}

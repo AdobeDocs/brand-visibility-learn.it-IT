@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 ---
-# Aumento dell’autorità del marchio per i domini a traffico agente ridotto
+# Aumento dell’autorità del brand per i domini a traffico agente ridotto
 
 L’autorità del marchio decide se classificarti nella ricerca e se essere citato nelle risposte AI. Questo video mostra come crearlo da collegamenti, menzioni e reputazione e misurarlo in Adobe Brand Visibility anche quando il traffico AI è ancora basso.
 
@@ -54,4 +54,4 @@ Questo video illustra:
 * Perché ottenere contenuti precisi e coerenti prima di effettuare il push fuori sede
 * Come le opportunità off-site (citati sentiment, Wikipedia, Reddit, YouTube) e le leve classiche come backlink e recensioni costruire autorità
 
->[!VIDEO](https://video.tv.adobe.com/v/3502783/?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}

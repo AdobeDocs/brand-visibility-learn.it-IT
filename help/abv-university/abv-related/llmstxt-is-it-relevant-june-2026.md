@@ -25,12 +25,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 ---
-# LLMs.txt - È pertinente (giugno 2026)
+# LLMs.txt - è pertinente (giugno 2026)
 
 Rivedere LLMs.txt con nuovi dati: un controllo di quasi 5.000 siti AEM mostra adozione e citazioni AI sono minuscole, ma GoogleGlebot ora legge il file, quindi crearne uno è un’assicurazione a buon mercato.
 
@@ -49,4 +49,4 @@ Questo video illustra:
 * Cosa è cambiato di recente, compreso Googlebot che legge il file
 * Perché crearne una è un&#39;assicurazione a basso sforzo, non una garanzia di citazione
 
->[!VIDEO](https://video.tv.adobe.com/v/3502900/?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}

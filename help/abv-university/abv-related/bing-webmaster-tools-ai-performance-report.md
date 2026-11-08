@@ -32,12 +32,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
 ---
-# Rapporto prestazioni IA strumenti Web master Bing
+# Rapporto sulle prestazioni IA degli strumenti Bing Webmaster
 
 Scopri in che modo il nuovo rapporto sulle prestazioni di intelligenza artificiale di Microsoft in Bing Webmaster Tools tiene traccia di quanto spesso il contenuto viene citato come origine nelle risposte generate dall’intelligenza artificiale e di cosa significa per l’ottimizzazione dei motori generativi (GEO).
 
@@ -56,7 +56,7 @@ Questo video illustra:
 * Differenza tra i dati delle citazioni e il classico rapporto sulle prestazioni di ricerca composto da clic, impression e classificazione
 * Perché è importante per la tua strategia GEO e come si integra con Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3502698/?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
 
 >[!NOTE]
 >Il rapporto sulle prestazioni di IA attualmente copre solo le citazioni in Bing Copilot e i riepiloghi di IA. Non include ancora altri assistenti IA come ChatGPT.
