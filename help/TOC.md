@@ -1,9 +1,9 @@
 ---
 user-guide-title: Visibilità dei brand tutorial
 user-guide-description: Visibilità dei brand tutorial
-source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
+source-git-commit: 3af4fa67a4f8c22a9f89abf1108a3eb28d6ef871
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 
@@ -41,3 +41,5 @@ ht-degree: 0%
   + [Come monitorare le differenze regionali nelle risposte del brand AI](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
   + [Perché monitorare regolarmente le risposte AI sul tuo marchio](abv-university/abv-related/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.md)
   + [Perché il sentiment è importante nelle risposte AI (e nei suoi limiti)](abv-university/abv-related/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss.md)
++ Visibilità dei brand in azione {#in-action}
+  + [Opportunità di aggiornamento dei contenuti](abv-university/abv-related/content-freshness.md)
